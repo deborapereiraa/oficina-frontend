@@ -1,0 +1,43 @@
+ h1,
+body{
+    margin: 0;
+}
+
+header{
+
+   
+    
+   
+}
+
+button{
+    background-color: white;
+    color: #7E4598;
+    border-color: white;
+    border-radius: 30px;
+    font-size: 14pt;
+    padding: 10px;
+}
+
+main{
+    padding: 90px;
+}
+
+.descricao,
+.habilidades{
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.redes-sociais a{
+  width: 20%;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
+
+a h4,
+a p{
+    color: white;
+}
